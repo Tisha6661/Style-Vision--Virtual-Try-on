@@ -17,6 +17,9 @@ Give the necessary inputs to get desired output.
 3. Used for user Engagement and Satisfaction
 
 # Screenshots
+![image](https://github.com/Tisha6661/Style-Vision--Virtual-Try-on/assets/98682478/5fb8c0dc-f1eb-4b2f-943c-fbab1bb64d32)
+![image](https://github.com/Tisha6661/Style-Vision--Virtual-Try-on/assets/98682478/cae70f8c-1b7e-4d45-b9a6-6f07035cf2f3)
+![image](https://github.com/Tisha6661/Style-Vision--Virtual-Try-on/assets/98682478/87c0c05a-0cb0-46e3-9ca6-1aa62289f203)
 
 # Future Scope
 1. Augmented Reality Integration
